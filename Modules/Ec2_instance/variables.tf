@@ -4,6 +4,3 @@ variable "ami_value" {
 variable "instance_type_value" {
     description = "value for instance type"
 }
-variable "bucket_value" {
-    description = "value for S3 bucket"
-}
